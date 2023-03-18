@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CK760 or Calvin K
 - 👀 I’m interested in becoming a software engineer
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and C++
 - 📫 How to reach me ...
 - Calvk@Protonmail.com
 
